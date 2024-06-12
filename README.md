@@ -23,11 +23,6 @@ A curious learner from Nepal. Passionate about coding, technology, and continuou
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paudelsamir&show_icons=true&theme=radical" alt="Samir's GitHub stats" />
-</p>
-
 ## Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/sampdl" target="_blank">
