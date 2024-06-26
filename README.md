@@ -25,7 +25,7 @@ A curious learner from Nepal. Passionate about coding, technology, and continuou
 
 ## Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/sampdl" target="_blank">
+  <a href="https://linkedin.com/in/paudelsamir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampdl" height="30" width="40" />
   </a>
   <a href="https://instagram.com/samirpdl" target="_blank">
