@@ -5,7 +5,7 @@
 A curious learner from Nepal. Passionate about coding, technology, and continuous learning.
 
 ## About Me
-- 🎓 Currently learning and mastering Python.
+- 🎓 Currently mastering Python for data science.
 - 💼 Open for collaborations on interesting projects.
 - 📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/sampdl) | [Email](mailto:samirpaudel2005@gmail.com)
 
