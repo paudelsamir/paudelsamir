@@ -7,7 +7,7 @@ A curious learner from Nepal.
 ## Ongoing Learning
 - 🎓 Learning Python for data science.
 - 📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/sampdl) | [Email](mailto:samirpaudel2005@gmail.com)
-
+  
 ## Skills
 <p align="left">
   <a href="https://www.learn-c.org/" target="_blank" style="text-decoration: none;">
@@ -37,11 +37,17 @@ A curious learner from Nepal.
   <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 0 10px 10px 0;" />
   </a>
+  <a href="https://www.notion.so/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/48/000000/notion.png" alt="Notion" style="margin: 0 10px 10px 0;" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="margin: 0 10px 10px 0;" />
   </a>
-  <a href="https://www.notion.so/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/48/000000/notion.png" alt="Notion" style="margin: 0 10px 10px 0;" />
+  <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/panda.png" alt="Pandas" height="48" style="margin: 0 10px 10px 0;" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="48" style="margin: 0 10px 10px 0;" />
   </a>
 </p>
 
@@ -53,8 +59,7 @@ A curious learner from Nepal.
   <a href="https://instagram.com/samirpdl" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirpdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
   </a>
-  <a href="https://twitter.com/samirpaudel_" target="_blank" style="text-decoration: none;">
+  <a href="https://twitter.com/sam_pdl" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_pdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
   </a>
 </p>
-
