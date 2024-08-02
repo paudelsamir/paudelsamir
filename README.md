@@ -1,15 +1,14 @@
-# Hi, I go by Samir Paudel!  👋
+# Hi, I go by Samir Paudel! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=brightgreen)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&width=435&lines=A+curious+learner+from+Nepal" alt="Typing SVG" />
 
-A curious learner from Nepal.
+![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blueviolet&style=for-the-badge)
 
 ## Ongoing Learning
-- 🎓 Learning Python for data science.
-- 📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/sampdl) | [Email](mailto:samirpaudel2005@gmail.com)
-  
+- 🐍 Learning Python for data science.
+
 ## Skills
-<p align="left">
+<p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px; display: inline-block;">
   <a href="https://www.learn-c.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px 10px 0;" />
   </a>
@@ -51,15 +50,19 @@ A curious learner from Nepal.
   </a>
 </p>
 
-## Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/paudelsamir" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
+## Reach Me through
+<div align="left" style="background-color: #0d1117;padding: 10px; border-radius: 10px; ">
+  <a href="https://linkedin.com/in/paudelsamir" target="_blank" style="text-decoration: none; style="margin: 0 10px 10px 0;"">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://instagram.com/samirpdl" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirpdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
+  <a href="mailto:samirpaudel2005@gmail.com" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="40" width="40"/>
+  </a>
+  <a href="https://instagram.com/samirpdl" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
   <a href="https://twitter.com/sam_pdl" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_pdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
   </a>
-</p>
+</div>
+
