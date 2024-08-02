@@ -53,7 +53,7 @@ A curious learner from Nepal.
   <a href="https://instagram.com/samirpdl" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirpdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
   </a>
-  <a href="https://twitter.com/sam_pdl" target="_blank" style="text-decoration: none;">
+  <a href="https://twitter.com/samirpaudel_" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_pdl" height="30" width="40" style="margin: 0 10px 10px 0;" />
   </a>
 </p>
