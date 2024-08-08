@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/3c73bf05-2885-438e-864d-48dd4ae04519)# Hi, I go by Samir Paudel! 👋
+
+# Hi, I go by Samir Paudel! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&width=435&lines=A+curious+learner+from+Nepal)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blueviolet&style=for-the-badge)
 
