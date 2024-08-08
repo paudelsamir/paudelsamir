@@ -1,4 +1,4 @@
-# Hi, I go by Samir Paudel! 👋
+![image](https://github.com/user-attachments/assets/3c73bf05-2885-438e-864d-48dd4ae04519)# Hi, I go by Samir Paudel! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&width=435&lines=A+curious+learner+from+Nepal)
 
@@ -8,7 +8,7 @@
 ## Ongoing Learning
 - 🐍 Chilling for a while !
 
-## Skills
+## Competencies
 <p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px; display: inline-block;">
   <a href="https://www.learn-c.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px 10px 0;" />
