@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blueviolet&style=for-the-badge)
 
 ## Ongoing Learning
-- 🐍 Learning Python for data science.
+- 🐍 Chilling for a while !
 
 ## Skills
 <p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px; display: inline-block;">
