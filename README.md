@@ -9,7 +9,8 @@
 - 🐍 Chilling for a while !
 
 ## Competencies
-<p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px; display: inline-block;">
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,linux,git,github,vscode,notion,mysql,pytorch,blender)](https://skillicons.dev)
+<!--- <p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px; display: inline-block;">
   <a href="https://www.learn-c.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px 10px 0;" />
   </a>
@@ -49,7 +50,7 @@
   <a href="https://pytorch.org/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="48" style="margin: 0 10px 10px 0;" />
   </a>
-</p>
+</p>-->
 
 ## Reach Me through
 <div align="left" style="background-color: #0d1117;padding: 10px; border-radius: 10px; ">
