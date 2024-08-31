@@ -1,9 +1,8 @@
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun)
+# Greetings, I am Samir👋
+A curious Learner based on Nepal.
 
-# Hi, I go by Samir Paudel! 👋
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&width=435&lines=A+curious+learner+from+Nepal)
-
-![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge)
 
 ## Ongoing Learning
 - 🐍 Chilling for a while !
@@ -53,6 +52,8 @@
 </p>-->
 
 ## Reach Me through
+
+
 <div align="left" style="background-color: #0d1117;padding: 10px; border-radius: 10px; ">
   <a href="https://linkedin.com/in/paudelsamir" target="_blank" style="text-decoration: none; style="margin: 0 10px 10px 0;"">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
