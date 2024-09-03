@@ -57,15 +57,15 @@ A curious Learner based on Nepal.
 <div align="left" style="background-color: #0d1117;padding: 10px; border-radius: 10px; ">
   <a href="https://linkedin.com/in/paudelsamir" target="_blank" style="text-decoration: none; style="margin: 0 10px 10px 0;"">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
+  </a> <br>
   <a href="mailto:samirpaudel2005@gmail.com" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="40" width="40"/>
   </a>
-  <a href="https://instagram.com/samirpdl" target="_blank" style="text-decoration: none; margin-right: 10px;">
+<!--  <a href="https://instagram.com/samirpdl" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
   <a href="https://twitter.com/sam_pdl" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
-  </a>
+  </a> -->
 </div>
 
