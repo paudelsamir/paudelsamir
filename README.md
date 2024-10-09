@@ -5,7 +5,7 @@ A curious Learner based on Nepal.
 ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge)
 
 ## Ongoing Learning
-- 🐍 SQL
+- 🐍 Machine Learning
 
 ## Competencies
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,linux,git,github,vscode,notion,mysql,pytorch,blender)](https://skillicons.dev)
