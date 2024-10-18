@@ -2,7 +2,7 @@
 # Greetings, I am Samir👋
 A curious Learner based on Nepal.
 
-![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge)
+<!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge)
 
 ## Ongoing Learning
 - 🐍 Machine Learning
@@ -50,7 +50,7 @@ A curious Learner based on Nepal.
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="48" style="margin: 0 10px 10px 0;" />
   </a>
 </p>-->
-
+<!--- 
 ## Reach Me through
 
 
