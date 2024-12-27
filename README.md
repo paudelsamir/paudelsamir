@@ -1,10 +1,10 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun)
+<!--- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun) 
 
 <!--- 
 # Greetings, I am Samir👋
 A curious Learner based on Nepal.
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge)
+<!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
 
 ## Ongoing Challenge
 - 🐍 365DaysOfData
