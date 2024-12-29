@@ -6,7 +6,8 @@ A curious Learner based on Nepal.
 -->
 <!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
 
-## ![Ongoing Challenge](https://img.shields.io/badge/Ongoing%20Challenge-365DaysOfData-blue?style=flat&logo=github&logoColor=white)
+## [![Ongoing Challenge](https://img.shields.io/badge/Ongoing%20Challenge-365DaysOfData-blue?style=flat&logo=github&logoColor=white)](https://github.com/paudelsamir/365DaysOfData)
+
 
 ## Competencies  
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql)](https://skillicons.dev)  
