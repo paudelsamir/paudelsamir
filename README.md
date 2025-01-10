@@ -13,7 +13,7 @@ A curious Learner based on Nepal.
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql)](https://skillicons.dev)  
 ## Tools Used
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="48" style="margin-left: 5px;, ">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="48" style="margin-left: 5px;, "> -->
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,notion,blender,docker,aws,gcp,azure,premiere" alt="skills" />
 </p>
 
