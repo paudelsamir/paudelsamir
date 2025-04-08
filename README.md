@@ -12,7 +12,7 @@ A curious Learner based on Nepal.
 
 
 ## Competencies  
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
 ## Tools Used
 <p align="left">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="48" style="margin-left: 5px;, "> -->
