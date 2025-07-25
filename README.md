@@ -6,12 +6,12 @@ A curious Learner based on Nepal.
 -->
 <!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
 
-## [![Ongoing ](https://img.shields.io/badge/Ongoing-365DaysOfData-blue?style=flat&logo=github&logoColor=white)](https://github.com/paudelsamir/365DaysOfData)
+### [![Ongoing ](https://img.shields.io/badge/Ongoing-365DaysOfData-blue?style=flat&logo=github&logoColor=white)](https://github.com/paudelsamir/365DaysOfData)
  <!--- ![GitHub Streak](https://github-readme-streak-stats-sigma-two.vercel.app?user=paudelsamir&exclude_days=Sun&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=FF8C00&fire=FF4500&currStreakLabel=000000)
 -->
 
 
-## Competencies  
+### Competencies  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) [![arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
   <!--  
 ## Tools Used
@@ -20,12 +20,10 @@ A curious Learner based on Nepal.
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,notion,blender,docker,aws,gcp,azure,premiere" alt="skills" />
 </p>
  -->
-## Lets connect
+### Lets connect
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/samireey)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paudelsamir/)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1031771611075969034)
-
-
 
 
 
