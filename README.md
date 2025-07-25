@@ -10,15 +10,28 @@ A curious Learner based on Nepal.
  <!--- ![GitHub Streak](https://github-readme-streak-stats-sigma-two.vercel.app?user=paudelsamir&exclude_days=Sun&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=FF8C00&fire=FF4500&currStreakLabel=000000)
 -->
 
-<!-- 
+
 ## Competencies  
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) [![arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
+  <!--  
 ## Tools Used
 <p align="left">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="48" style="margin-left: 5px;, "> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="48" style="margin-left: 5px;, "> 
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,notion,blender,docker,aws,gcp,azure,premiere" alt="skills" />
 </p>
  -->
+## Lets connect
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/samireey)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paudelsamir/)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1031771611075969034)
+
+
+
+
+
+<br clear="left" />
+
+
 
  <!-- ## Libraries/ Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
