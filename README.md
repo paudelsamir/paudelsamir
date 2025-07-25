@@ -1,12 +1,10 @@
 <!--- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun) 
 
-<!--- 
-# Greetings, I am Samir👋
-A curious Learner based on Nepal.
--->
-<!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
 
-### [![Ongoing ](https://img.shields.io/badge/Ongoing-365DaysOfData-blue?style=flat&logo=github&logoColor=white)](https://github.com/paudelsamir/365DaysOfData)
+.
+
+<!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
+## Greetings, I am Samir👋 
  <!--- ![GitHub Streak](https://github-readme-streak-stats-sigma-two.vercel.app?user=paudelsamir&exclude_days=Sun&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=FF8C00&fire=FF4500&currStreakLabel=000000)
 -->
 
@@ -20,6 +18,7 @@ A curious Learner based on Nepal.
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,notion,blender,docker,aws,gcp,azure,premiere" alt="skills" />
 </p>
  -->
+### [![Ongoing ](https://img.shields.io/badge/Ongoing-365DaysOfData-blue?style=flat&logo=github&logoColor=white)](https://github.com/paudelsamir/365DaysOfData)
 ### Lets connect
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/samireey)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paudelsamir/)
