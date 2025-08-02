@@ -1,9 +1,7 @@
 <!--- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun) 
 
 
-.
-
-<!--- ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
+ ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
 ## Greetings, I am Samir👋 
  <!--- ![GitHub Streak](https://github-readme-streak-stats-sigma-two.vercel.app?user=paudelsamir&exclude_days=Sun&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=FF8C00&fire=FF4500&currStreakLabel=000000)
 -->
