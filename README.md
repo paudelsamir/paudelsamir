@@ -1,5 +1,5 @@
 <!--- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun) 
-
+[![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 
  ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
 ## Greetings, I am Samir👋 
@@ -8,7 +8,7 @@
 
 
 ### Competencies  
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) [![arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)   [![arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
   <!--  
 ## Tools Used
 <p align="left">
