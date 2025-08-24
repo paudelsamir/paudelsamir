@@ -2,6 +2,7 @@
 [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 
  ![Profile Views](https://komarev.com/ghpvc/?username=paudelsamir&color=blue&style=for-the-badge) -->
+ <!---
  [![committers.top badge](https://user-badge.committers.top/nepal/paudelsamir.svg)](https://user-badge.committers.top/nepal/paudelsamir)  [![Ongoing ](https://img.shields.io/badge/Ongoing-365DaysOfData-blue?style=flat&logo=github&logoColor=white)](https://github.com/paudelsamir/365DaysOfData)
 
 ## Greetings, I am [Samir](https://paudelsamir.github.io/)👋 
