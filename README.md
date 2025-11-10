@@ -9,7 +9,7 @@
  <!--- ![GitHub Streak](https://github-readme-streak-stats-sigma-two.vercel.app?user=paudelsamir&exclude_days=Sun&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=FF8C00&fire=FF4500&currStreakLabel=000000)
 -->
 
-
+  <!-- 
 ### Competencies  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)   [![arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
   <!--  
@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,notion,blender,docker,aws,gcp,azure,premiere" alt="skills" />
 </p>
  -->
+
+   <!-- 
 
 ### Lets connect
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/samireey)
