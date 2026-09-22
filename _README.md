@@ -1,3 +1,60 @@
+### Samir Paudel
+AI developer:
+[website](https://paudelsamir.github.io) · [projects](https://samirpaudel.me/projects) · [linkedin](https://linkedin.com/in/paudelsamir) · [email](mailto:contact.samirpaudel@gmail.com)
+<table>
+<tr>
+<td valign="top" width="50%">
+<b>personal site / wiki</b><br>
+<a href="https://paudelsamir.github.io">wiki</a> - personal RAG + resume builder<br>
+<a href="https://github.com/paudelsamir/365DaysOfData">365DaysOfData</a> - year-long AI log, 50+ stars
+</td>
+<td valign="top" width="50%">
+<b>fullstack ai</b><br>
+<a href="https://github.com/paudelsamir/nyayak">nyayak</a> - Nepal legal RAG + recommender + navigator <a href="https://nyayak.vercel.app/">[live]</a><br>
+<a href="https://github.com/paudelsamir/meantrainer">meantrainer</a> - voice fitness coach <a href="https://meantrainer.vercel.app/">[live]</a><br>
+<a href="https://github.com/paudelsamir/Choose-Your-Own-Adventure">cyoa</a> - LLM branching stories<br>
+<a href="https://github.com/paudelsamir/365DaysOfData/tree/main/15-Projects-Based-GenAI">genai</a> - RAG, QLoRA, DeepEval<br>
+<a href="https://github.com/paudelsamir/365DaysOfData/tree/main/16-Project-Based-AgenticAI">agents</a> - memory, tools, MCP, debate
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<b>machine learning</b><br>
+<a href="https://github.com/paudelsamir/ML-Based-Football-Players-Market-Value-Prediction">football-value</a> - 18k records, 94% <a href="https://paudelsamir.streamlit.app/">[live]</a><br>
+<a href="https://cine-rank.vercel.app">cinerank</a> - BERT IMDb 92%, TMDB board<br>
+<a href="https://github.com/paudelsamir/Movie-Recommender-System">movie-recommender</a> - TF-IDF, 5k movies <a href="https://movie-recommender-samir.streamlit.app/">[live]</a><br>
+<a href="https://github.com/paudelsamir/EDA-Projects">eda</a> - EDA collection
+</td>
+<td valign="top" width="50%">
+<b>deep learning</b><br>
+<a href="https://github.com/paudelsamir/cat-vs-dog-classifier">cat-vs-dog</a> - VGG16, 95%+<br>
+<a href="https://github.com/paudelsamir/guess-footballer-with-eyes">guess-footballer</a> - ResNet18 eye ID<br>
+<a href="https://github.com/paudelsamir/Image-Captioning-Transformer">captioning</a> - ResNet + Transformer, Flickr8k<br>
+<a href="https://github.com/paudelsamir/seq2seq-chatbot">seq2seq</a> - GRU + Luong attention<br>
+<a href="https://github.com/paudelsamir/GPT-From-Scratch">gpt-scratch</a> - Transformer from scratch
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+<b>linux and shell</b>
+<table>
+<tr>
+<td valign="top" width="50%">
+<a href="https://github.com/paudelsamir/dotfiles">dotfiles</a> - Niri + Quickshell config<br>
+<a href="https://github.com/paudelsamir/switcher">switcher</a> - niri alt-tab for Omarchy<br>
+<a href="https://github.com/paudelsamir/minimize-pill">minimize-pill</a> - Hyprland minimizer <br>
+<a href="https://github.com/paudelsamir/guitar">guitar</a> - practice plugin, metronome + tuner + tabs<br>
+</td>
+<td valign="top" width="50%">
+<a href="https://github.com/paudelsamir/agebar">agebar</a> - aging widget<br>
+<a href="https://github.com/paudelsamir/opencode-usage">opencode-usage</a> - model usage tracker<br>
+<a href="https://github.com/paudelsamir/countdown-gnome-extension">countdown</a> - GNOME top-bar countdown
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 <!--- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=fun) 
 [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 
