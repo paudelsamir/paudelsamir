@@ -1,10 +1,12 @@
 ### Samir Paudel
 AI developer:
 [website](https://paudelsamir.github.io) · [projects](https://samirpaudel.me/projects) · [linkedin](https://linkedin.com/in/paudelsamir) · [email](mailto:contact.samirpaudel@gmail.com)
-<table>
+<table width="80%">
 <tr>
 <td valign="top" width="50%">
 <b>personal site / wiki</b><br>
+<a href="https://paudelsamir.github.io"><img src="https://samirpaudel.me/assets/preview.png" width="120"></a>
+<a href="https://paudelsamir.github.io"><img src="https://samirpaudel.me/assets/preview1.png" width="120"></a><br>
 <a href="https://paudelsamir.github.io">wiki</a> - personal RAG + resume builder<br>
 <a href="https://github.com/paudelsamir/365DaysOfData">365DaysOfData</a> - year-long AI log, 50+ stars
 </td>
@@ -37,13 +39,13 @@ AI developer:
 <tr>
 <td valign="top" colspan="2">
 <b>linux and shell</b>
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 <a href="https://github.com/paudelsamir/dotfiles">dotfiles</a> - Niri + Quickshell config<br>
 <a href="https://github.com/paudelsamir/switcher">switcher</a> - niri alt-tab for Omarchy<br>
 <a href="https://github.com/paudelsamir/minimize-pill">minimize-pill</a> - Hyprland minimizer <br>
-<a href="https://github.com/paudelsamir/guitar">guitar</a> - practice plugin, metronome + tuner + tabs<br>
+<a href="https://github.com/paudelsamir/guitar">guitar</a> - practice plugin + metronome + tuner<br>
 </td>
 <td valign="top" width="50%">
 <a href="https://github.com/paudelsamir/agebar">agebar</a> - aging widget<br>
