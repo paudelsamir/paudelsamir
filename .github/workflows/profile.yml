@@ -1,0 +1,22 @@
+name: profile
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install fonttools
+      - run: python3 profile/build.py
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile README.md
+          git diff --cached --quiet || git commit -m "profile: rebuild rows"
+          git push
